@@ -1,0 +1,27 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.class-container {
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.student {
+    margin-bottom: 10px;
+}
+
+.student-info {
+    font-weight: bold;
+}
+
+.class-container h2 {
+    margin-top: 0;
+}
